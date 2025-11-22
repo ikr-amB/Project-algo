@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
+#include "wordleGame.h"
 
 #define WORD_LEN 6
 #define MAX_ATTEMPTS 6
