@@ -74,5 +74,7 @@ wordle.exe auto    # sur Windows
 
 **Exemple d'exécution**
 Entrez un mot de 5 lettres: MAISON
+
+
 M ⬛ A 🟨 I 🟩 S ⬛ O ⬛ N ⬛
 
