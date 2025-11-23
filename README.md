@@ -29,6 +29,7 @@ Ce projet implémente une version console du jeu **Wordle** ainsi qu’un **solv
 -Documentation et commentaires suivant les bonnes pratiques (prototypes, organisation claire, fonctions courtes).
 
 **Prérequis**
+
 -Compilateur C (ex : gcc)
 
 -Système compatible avec les applications console
