@@ -1,17 +1,17 @@
-###wordle en C
+### wordle en C
 
 
 ## Descreption
 
 Ce projet implémente une version console du jeu **Wordle** ainsi qu’un **solveur algorithmique avancé** en langage C.
 
-##**Objectif**
+## **Objectif**
 
 
 L’objectif est de deviner le mot secret en un minimum d’essais, en utilisant les indices fournis après chaque tentative.
 
 
-##**Fonctionnalités techniques**
+## *Fonctionnalités techniques*
 
 -Chargement et indexation d’un dictionnaire de mots de cinq lettres via un fichier texte.
 -Validation des entrées utilisateur et normalisation des chaînes (longueur, caractères valides).
