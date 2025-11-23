@@ -73,8 +73,12 @@ wordle.exe auto    # sur Windows
 -Le solveur propose automatiquement des mots, filtre le dictionnaire et trouve le mot secret en un minimum d’essais.
 
 **Exemple d'exécution**
+
 Entrez un mot de 5 lettres: MAISON
 
 
 M ⬛ A 🟨 I 🟩 S ⬛ O ⬛ N ⬛
+
+**Captures d'écran**
+
 
