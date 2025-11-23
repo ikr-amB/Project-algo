@@ -70,7 +70,6 @@
 
 
       ./wordle auto      # sur Linux/Mac
-
       wordle.exe auto    # sur Windows
 
 *-Le solveur propose automatiquement des mots, filtre le dictionnaire et trouve le mot secret en un minimum d’essais.*
