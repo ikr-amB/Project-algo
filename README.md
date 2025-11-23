@@ -48,7 +48,7 @@ L’objectif est de deviner le mot secret en un minimum d’essais, en utilisant
 
 **Utilisation**
 
-*mode joueur*
+***mode joueur***
 
 
 ./wordle       # sur Linux/Mac
