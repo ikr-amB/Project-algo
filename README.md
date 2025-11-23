@@ -77,22 +77,22 @@
 
 ### Exemple de sortie (6 essais)
 
-*Entrez un mot de 5 lettres*
+*Entrez un mot de 5 lettres MINISCULE*
 
-Essai 1: TABLE  
-T ⬛ A 🟨 B ⬛ L ⬛ E  ⬛
+Essai 1: table  
+t ⬛ a 🟨 b ⬛ l ⬛ e  ⬛
 
-Essai 2: CARTE  
-C ⬛ A 🟨 R ⬛ T 🟨 E  ⬛
+Essai 2: carete  
+c ⬛ a 🟨 r ⬛ t 🟨 e  ⬛
 
-Essai 3: PARLE  
-P 🟩 A 🟨 R ⬛ L ⬛ E  ⬛
+Essai 3: parle  
+P 🟩 A 🟨 R ⬛ L ⬛ e  ⬛
 
-Essai 4: PARTI  
-P 🟩 A 🟨 R 🟩 T 🟩 I  ⬛
+Essai 4: parti 
+p 🟩 a 🟨 r 🟩 t 🟩 i  ⬛
 
-Essai 5: PARTIE  
-P 🟩 A 🟨 R 🟩 T 🟩 I 🟩 E 🟩  
+Essai 5:   
+p 🟩 a 🟩 r 🟩 t 🟩  i🟩 E 🟩  
 
 Mot trouvé: PARTIE
 
