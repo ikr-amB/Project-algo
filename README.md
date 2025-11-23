@@ -38,22 +38,28 @@ Ce projet implémente une version console du jeu **Wordle** ainsi qu’un **solv
 
 
 **UTILISATION#**
+
 *mode joueur*
+
 
 ./wordle       # sur Linux/Mac
 wordle.exe     # sur Windows
 
 -Entrez une tentative de 5 lettres.
+
 -Le programme fournit un retour visuel (🟩, 🟨, ⬛).
+
 -Continuez jusqu’à deviner le mot ou épuiser les essais(6 tentatives).
 
 *mode solveur automatique*
 
 ./wordle auto      # sur Linux/Mac
+
 wordle.exe auto    # sur Windows
 
 -Le solveur propose automatiquement des mots, filtre le dictionnaire et trouve le mot secret en un minimum d’essais.
 
 **Objectif**
+
 
 L’objectif est de deviner le mot secret en un minimum d’essais, en utilisant les indices fournis après chaque tentative.
