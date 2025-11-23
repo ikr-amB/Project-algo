@@ -61,7 +61,7 @@ wordle.exe     # sur Windows
 
 -Continuez jusqu’à deviner le mot ou épuiser les essais(6 tentatives).
 
-*mode solveur automatique*
+***mode solveur automatique***
 
 
 ./wordle auto      # sur Linux/Mac
