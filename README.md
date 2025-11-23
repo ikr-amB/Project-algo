@@ -1,7 +1,6 @@
 #wordle en C
 **##Descreption**
 Ce projet implémente une version console du jeu **Wordle** ainsi qu’un **solveur algorithmique avancé**en langage C.
-
 **##Fonctionnalités techniques**
 -Chargement et indexation d’un dictionnaire de mots de cinq lettres via un fichier texte.
 -Validation des entrées utilisateur et normalisation des chaînes (longueur, caractères valides).
@@ -13,35 +12,29 @@ Ce projet implémente une version console du jeu **Wordle** ainsi qu’un **solv
 
         -⬛ = lettre absente
 -Solveur automatique basé sur :
-
-        -Filtrage successif du dictionnaire selon les feedbacks
-
-        -Calcul de probabilités ou de fréquences des lettres
-
-        -Sélection du “meilleur” mot pour maximiser l’information
-        
+        -Filtrage successif du dictionnaire selon les feedbacks.
+        -Calcul de probabilités ou de fréquences des lettres.
+        -Sélection du “meilleur” mot pour maximiser l’information.
 -Architecture modulaire (fichiers séparés : gestion dictionnaire, logique du jeu, solveur, I/O).
-
 -Documentation et commentaires suivant les bonnes pratiques (prototypes, organisation claire, fonctions courtes).
 **##Prérequis**
 -Compilateur C (ex : gcc)
-
 -Système compatible avec les applications console
-
 -Fichier dictionnaire (Words.txt) contenant les mots de 5 lettres
 **##Compilation**
 
 **#UTILISATION#**
 *mode joueur*
+
 ./wordle       # sur Linux/Mac
 wordle.exe     # sur Windows
 
 -Entrez une tentative de 5 lettres.
-
 -Le programme fournit un retour visuel (🟩, 🟨, ⬛).
+-Continuez jusqu’à deviner le mot ou épuiser les essais(6 tentatives).
 
--Continuez jusqu’à deviner le mot ou épuiser les essais(6 tentatives)
 *mode solveur automatique*
+
 ./wordle auto      # sur Linux/Mac
 wordle.exe auto    # sur Windows
 
