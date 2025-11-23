@@ -56,9 +56,8 @@
 ***^mode joueur***
 
 
-./wordle       # sur Linux/Mac
-
-wordle.exe     # sur Windows
+      ./wordle       # sur Linux/Mac
+      wordle.exe     # sur Windows
 
 *-Entrez une tentative de 5 lettres.*
 
@@ -70,9 +69,9 @@ wordle.exe     # sur Windows
  ***^mode solveur automatique***
 
 
-./wordle auto      # sur Linux/Mac
+      ./wordle auto      # sur Linux/Mac
 
-wordle.exe auto    # sur Windows
+      wordle.exe auto    # sur Windows
 
 *-Le solveur propose automatiquement des mots, filtre le dictionnaire et trouve le mot secret en un minimum d’essais.*
 
