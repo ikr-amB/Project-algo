@@ -21,9 +21,9 @@
 
 *-Algorithme d’évaluation des tentatives, générant un retour codé :*
 
-        -🟩 = position correcte
+        -🟩 = lettre présente position correcte
 
-        -🟨 = lettre présente
+        -🟨 = lettre présente position incorrecte
 
         -⬛ = lettre absente
         
