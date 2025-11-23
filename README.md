@@ -93,6 +93,7 @@ p 🟩 a 🟩 r 🟩 c ⬛ s ⬛
 
 Essai 5: parti 
 p 🟩 a 🟩 r 🟩 t 🟩 i ⬛
+
 Essai 6: parts
 
 p 🟩 a 🟩 r 🟩 t 🟩 s 🟩  
