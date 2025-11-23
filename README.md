@@ -39,7 +39,7 @@ Ce projet implémente une version console du jeu **Wordle** ainsi qu’un **solv
 **Compilation**
 
 
-**UTILISATION**
+**Utilisation**
 
 *mode joueur*
 
