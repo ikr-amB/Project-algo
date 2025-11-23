@@ -35,10 +35,11 @@ Ce projet implémente une version console du jeu **Wordle** ainsi qu’un **solv
 -Système compatible avec les applications console
 
 -Fichier dictionnaire (Words.txt) contenant les mots de 5 lettres
+
 **Compilation**
 
 
-**UTILISATION#**
+**UTILISATION**
 
 *mode joueur*
 
