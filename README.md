@@ -45,6 +45,7 @@ Ce projet implémente une version console du jeu **Wordle** ainsi qu’un **solv
 
 
 ./wordle       # sur Linux/Mac
+
 wordle.exe     # sur Windows
 
 -Entrez une tentative de 5 lettres.
@@ -54,6 +55,7 @@ wordle.exe     # sur Windows
 -Continuez jusqu’à deviner le mot ou épuiser les essais(6 tentatives).
 
 *mode solveur automatique*
+
 
 ./wordle auto      # sur Linux/Mac
 
