@@ -82,3 +82,7 @@ M ⬛ A 🟨 I 🟩 S ⬛ O ⬛ N ⬛
 **Captures d'écran**
 
 
+## Auteur
+
+**Aicha Gharbi-IKRAM BOUTINE -LYNA BOUSSBAA**  
+Développeuses en C et passionnée par les projets ludiques et éducatifs.
