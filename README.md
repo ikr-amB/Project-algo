@@ -61,7 +61,7 @@
 
 *-Entrez une tentative de 5 lettres.*
 
-*-Le programme fournit un retour visuel (🟩, 🟨, ⬛).*
+*-Le programme fournit un retour visuel* (🟩, 🟨, ⬛).
 
 *-Continuez jusqu’à deviner le mot ou épuiser les essais(6 tentatives).*
 
@@ -74,12 +74,27 @@
 
 *-Le solveur propose automatiquement des mots, filtre le dictionnaire et trouve le mot secret en un minimum d’essais.*
 
-## Exemple d'exécution
 
-*Entrez un mot de 5 lettres:* MAISON
+### Exemple de sortie (6 essais)
 
+*Entrez un mot de 5 lettres*
 
-M ⬛ A 🟨 I 🟩 S ⬛ O ⬛ N ⬛
+Essai 1: TABLE  
+T ⬛ A 🟨 B ⬛ L ⬛ E  ⬛
+
+Essai 2: CARTE  
+C ⬛ A 🟨 R ⬛ T 🟨 E  ⬛
+
+Essai 3: PARLE  
+P 🟩 A 🟨 R ⬛ L ⬛ E  ⬛
+
+Essai 4: PARTI  
+P 🟩 A 🟨 R 🟩 T 🟩 I  ⬛
+
+Essai 5: PARTIE  
+P 🟩 A 🟨 R 🟩 T 🟩 I 🟩 E 🟩  
+
+Mot trouvé: PARTIE
 
 ## Captures d'écran
 
