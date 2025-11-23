@@ -48,7 +48,8 @@ L’objectif est de deviner le mot secret en un minimum d’essais, en utilisant
 
 **Utilisation**
 
-       ***mode joueur***
+
+***mode joueur***
 
 
 ./wordle       # sur Linux/Mac
@@ -61,7 +62,8 @@ wordle.exe     # sur Windows
 
 -Continuez jusqu’à deviner le mot ou épuiser les essais(6 tentatives).
 
-        ***mode solveur automatique***
+
+ ***mode solveur automatique***
 
 
 ./wordle auto      # sur Linux/Mac
