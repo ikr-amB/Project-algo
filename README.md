@@ -1,7 +1,7 @@
 ###wordle en C
 
 
-##**Descreption**
+##Descreption
 
 Ce projet implémente une version console du jeu **Wordle** ainsi qu’un **solveur algorithmique avancé** en langage C.
 
