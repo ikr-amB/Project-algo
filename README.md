@@ -91,10 +91,13 @@ p 🟩 a 🟩 r 🟩 l ⬛ e ⬛
 Essai 4: parcs
 p 🟩 a 🟩 r 🟩 c ⬛ s ⬛
 
-Essai 5:   
-p 🟩 a 🟩 r 🟩 t 🟩 i 🟩  
+Essai 5: parti 
+p 🟩 a 🟩 r 🟩 t 🟩 i ⬛
+Essai 6: parts
 
-Mot trouvé: PARTIE
+p 🟩 a 🟩 r 🟩 t 🟩 s 🟩  
+
+Mot trouvé: parts
 
 ## Captures d'écran
 
