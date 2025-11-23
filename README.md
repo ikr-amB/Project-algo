@@ -1,14 +1,15 @@
 #wordle en C
 
 
-**Objectif**
-
-L’objectif est de deviner le mot secret en un minimum d’essais, en utilisant les indices fournis après chaque tentative.
-
-
 **Descreption**
 
 Ce projet implémente une version console du jeu **Wordle** ainsi qu’un **solveur algorithmique avancé** en langage C.
+
+**Objectif**
+
+
+L’objectif est de deviner le mot secret en un minimum d’essais, en utilisant les indices fournis après chaque tentative.
+
 
 **Fonctionnalités techniques**
 
