@@ -80,19 +80,19 @@
 *Entrez un mot de 5 lettres MINISCULE*
 
 Essai 1: table  
-t ⬛ a 🟨 b ⬛ l ⬛ e  ⬛
+t 🟨 a 🟩 b ⬛ l ⬛ e ⬛
 
 Essai 2: carete  
-c ⬛ a 🟨 r ⬛ t 🟨 e  ⬛
+c ⬛ a 🟩 r 🟩 t 🟩 e ⬛
 
 Essai 3: parle  
-P 🟩 A 🟨 R ⬛ L ⬛ e  ⬛
+p 🟩 a 🟩 r 🟩 l ⬛ e ⬛
 
-Essai 4: parti 
-p 🟩 a 🟨 r 🟩 t 🟩 i  ⬛
+Essai 4: parcs
+p 🟩 a 🟩 r 🟩 c ⬛ s ⬛
 
 Essai 5:   
-p 🟩 a 🟩 r 🟩 t 🟩  i🟩 E 🟩  
+p 🟩 a 🟩 r 🟩 t 🟩 i 🟩  
 
 Mot trouvé: PARTIE
 
