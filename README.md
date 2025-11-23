@@ -77,7 +77,7 @@
 
 ## Exemple de sortie (6 essais)
 
-*Entrez un mot de 5 lettres MINISCULE*
+*Entrez un mot de 5 lettres miniscule*
 
 Essai 1: table  
 
