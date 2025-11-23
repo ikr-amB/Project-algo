@@ -14,7 +14,11 @@
 ## Fonctionnalités techniques
 
 *-Chargement et indexation d’un dictionnaire de mots de cinq lettres via un fichier texte.*
+
+
 *-Validation des entrées utilisateur et normalisation des chaînes (longueur, caractères valides).*
+
+
 *-Algorithme d’évaluation des tentatives, générant un retour codé :*
 
         -🟩 = position correcte
