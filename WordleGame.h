@@ -13,4 +13,5 @@ void play_game();
 
 //PART2:SOLVER
 int match_feedback(char word[], char guess[], char fb[]);
+void filter_words(char all_words[][WORD_LEN], int all_count, char guess[], char FB[], char new_words[][WORD_LEN], int new_count);
 #endif
