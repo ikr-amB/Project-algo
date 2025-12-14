@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1764625198 source:c:\users\pc\onedrive\bureau\project algo\projet algo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"WordleGame.h"
+
+1765742101 source:c:\users\pc\onedrive\bureau\project algo\projet algo\solver.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"WordleGame.h"
+
+1764625122 source:c:\users\pc\onedrive\bureau\project algo\projet algo\wordle.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"wordleGame.h"
+
+1764625090 c:\users\pc\onedrive\bureau\project algo\projet algo\wordlegame.h
+
