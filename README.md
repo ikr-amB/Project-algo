@@ -133,7 +133,7 @@ Tentative 3 : PLANT
 
 
 ### Solveur automatique
-<img width="780" height="553" alt="solver" src="https://github.com/user-attachments/assets/9844a045-0b7b-4f94-a0d3-a2b22196faec" />
+<img width="599" height="468" alt="Capture d&#39;écran 2025-12-19 222842" src="https://github.com/user-attachments/assets/01889cb4-e950-479d-85cf-e5052f9e1531" />
 
 
 ## Auteur
