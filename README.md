@@ -104,7 +104,7 @@ p 🟩 a 🟩 r 🟩 t 🟩 s 🟩
 
 Mot trouvé: parts
 
-##Exemple de sortie solver 
+## Exemple de sortie solver 
 
 ===== WORD GUESS GAME =====
 
