@@ -29,15 +29,15 @@
         
 *-Solveur automatique basé sur:*
 
-        -Filtrage successif du dictionnaire selon les feedbacks.
         
-        -Calcul de probabilités ou de fréquences des lettres.
-        
-        -Sélection du “meilleur” mot pour maximiser l’information.
-        
-*-Architecture modulaire (fichiers séparés : gestion dictionnaire, logique du jeu, solveur, I/O).*
-
-*-Documentation et commentaires suivant les bonnes pratiques (prototypes, organisation claire, fonctions courtes).*
+Le l’élimination progressive des mots impossibles
+À chaque tentative :
+-Le solver propose un mot (guess)
+-Il reçoit un feedback Wordle (G, Y, _)
+-Il compare ce feedback avec tous les mots du dictionnaire
+-Il élimine tous les mots qui ne respectent pas ce feedback
+-Il garde uniquement les mots compatibles
+-Il recommence jusqu’à trouver le mot secret
 
  ## Prérequis
 
