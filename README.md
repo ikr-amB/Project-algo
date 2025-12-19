@@ -105,13 +105,17 @@ p 🟩 a 🟩 r 🟩 t 🟩 s 🟩
 Mot trouvé: parts
 ##Exemple solver 
 ===== WORD GUESS GAME =====
+
 Tentative 1 : ARISE
+
 Feedback   : _Y__G
 
 Tentative 2 : POINT
+
 Feedback   : _GG_G
 
 Tentative 3 : PLANT
+
 🎉 Félicitations ! Mot trouvé !
 
 ## Captures d'écran
