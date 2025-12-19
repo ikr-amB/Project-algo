@@ -128,13 +128,13 @@ Tentative 3 : PLANT
 🎉 Félicitations ! Mot trouvé !
 
 ## Captures d'écran
-##Les choix 
-![wordle choix](Capture0.jpg)
 ### Jeu Wordle (mode utilisateur)
-![Wordle Console](Capture1.jpg)
+<img width="977" height="599" alt="wordel" src="https://github.com/user-attachments/assets/1180bf79-1867-487e-a472-dcc9fba83ac1" />
+
 
 ### Solveur automatique
-![Wordle Solver](Capture2.jpg)
+<img width="780" height="553" alt="solver" src="https://github.com/user-attachments/assets/9844a045-0b7b-4f94-a0d3-a2b22196faec" />
+
 
 ## Auteur
 
