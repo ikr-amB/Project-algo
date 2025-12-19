@@ -103,7 +103,9 @@ Essai 6: parts
 p 🟩 a 🟩 r 🟩 t 🟩 s 🟩  
 
 Mot trouvé: parts
-##Exemple solver 
+
+##Exemple de sortie solver 
+
 ===== WORD GUESS GAME =====
 
 Tentative 1 : ARISE
