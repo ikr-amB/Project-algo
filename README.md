@@ -74,7 +74,7 @@
 *-Le solveur propose automatiquement des mots, filtre le dictionnaire et trouve le mot secret en un minimum d’essais.*
 
 
-## Exemple de sortie (6 essais)
+## Exemple de sortie wordle (6 essais)
 
 *Entrez un mot de 5 lettres miniscule*
 
