@@ -47,7 +47,6 @@
 
 *-Fichier dictionnaire (Words.txt) contenant les mots de 5 lettres*
 
-## Compilation
 
 
 ## Utilisation
@@ -95,7 +94,6 @@ Essai 4: parcs
 
 p 🟩 a 🟩 r 🟩 c ⬛ s ⬛
 
-
 Essai 5: parti 
 
 p 🟩 a 🟩 r 🟩 t 🟩 i ⬛
@@ -107,7 +105,13 @@ p 🟩 a 🟩 r 🟩 t 🟩 s 🟩
 Mot trouvé: parts
 
 ## Captures d'écran
+##Les choix 
+![wordle choix](Capture0.jpg)
+### Jeu Wordle (mode utilisateur)
+![Wordle Console](Capture1.jpg)
 
+### Solveur automatique
+![Wordle Solver](Capture2.jpg)
 
 ## Auteur
 
