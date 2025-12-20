@@ -32,19 +32,19 @@
         
 *Le l’élimination progressive des mots impossibles*
 
-À chaque tentative :
+*À chaque tentative :*
 
--Le solver propose un mot (guess)
+*-Le solver propose un mot (guess)*
 
--Il reçoit un feedback Wordle (G, Y, _)
+*-Il reçoit un feedback Wordle (G, Y, _)*
 
--Il compare ce feedback avec tous les mots du dictionnaire
+*-Il compare ce feedback avec tous les mots du dictionnaire*
 
--Il élimine tous les mots qui ne respectent pas ce feedback
+*-Il élimine tous les mots qui ne respectent pas ce feedback*
 
--Il garde uniquement les mots compatibles
+*-Il garde uniquement les mots compatibles*
 
--Il recommence jusqu’à trouver le mot secret
+*-Il recommence jusqu’à trouver le mot secret*
 
  ## Prérequis
 
