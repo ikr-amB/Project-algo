@@ -99,11 +99,11 @@ p 🟩 a 🟩 r 🟩 l ⬛ e ⬛
 
 Essai 4: parcs
 
-p 🟩 a 🟩 r 🟩 c ⬛ s ⬛
+p 🟩 a 🟩 r 🟩 c ⬛ h ⬛
 
 Essai 5: parti 
 
-p 🟩 a 🟩 r 🟩 t 🟩 i ⬛
+p 🟩 a 🟩 r 🟩 t 🟩 y ⬛
 
 Essai 6: parts
 
