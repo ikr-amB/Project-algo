@@ -117,11 +117,11 @@ Mot trouvé: parts
 
 Tentative 1 : ARISE
 
-Feedback   : _Y__G
+Feedback   :  Y____
 
 Tentative 2 : POINT
 
-Feedback   : _GG_G
+Feedback   :  G__GG
 
 Tentative 3 : PLANT
 
