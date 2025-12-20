@@ -95,7 +95,7 @@ c ⬛ a 🟩 r 🟩 t 🟩 e ⬛
 
 Essai 3: parle  
 
-p 🟩 a 🟩 r 🟩 l ⬛ e ⬛
+p 🟩 a 🟩 r 🟩 r ⬛ y ⬛
 
 Essai 4: parcs
 
